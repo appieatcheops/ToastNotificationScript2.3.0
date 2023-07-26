@@ -145,7 +145,7 @@
 [CmdletBinding()]
 param(
     [Parameter(HelpMessage='Path to XML Configuration File')]
-    [string]$Config=
+    [string]$Config="https://raw.githubusercontent.com/appieatcheops/ToastNotificationScript2.3.0/master/config-toast.xml"
 )
 
 #region Functions
