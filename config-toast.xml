@@ -24,7 +24,7 @@
 	<Option Name="UsePowershellApp" Enabled="False" />	<!-- The app in Windows doing the actual notification - can't be both SoftwareCenter and Powershell -->
 	<Option Name="CustomAudio" Enabled="False" />	<!-- Enable or disable a custom speak scenario, where the text will be read out aloud -->
 	<Option Name="LogoImageName" Value="Logo-Digipolis-RGB.png" />  <!-- File name of the image shown as logo in the toast notoification  -->
-	<Option Name="HeroImageName" Value="digipolis-illustratie-support_02-blauw-pos-rgb@2x.png" /> <!-- File name of the image shown in the top of the toast notification -->	
+	<Option Name="HeroImageName" Value="https://github.com/appieatcheops/ToastNotificationScript2.3.0/blob/master/Images/digipolis-illustratie-support_02-blauw-pos-rgb%402x.png" /> <!-- File name of the image shown in the top of the toast notification -->	
 	<Option Name="ActionButton1" Enabled="True" />	<!-- Enables or disables the action button. -->
 	<Option Name="ActionButton2" Enabled="False" />	<!-- Enables or disables the action button. -->
 	<Option Name="DismissButton" Enabled="True" />	<!-- Enables or disables the dismiss button. -->
