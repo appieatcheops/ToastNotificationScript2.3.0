@@ -12,8 +12,8 @@ function Get-Uptime {
 
  $uptime = Get-Uptime
 
-if ($uptime.Hours -gt 3) {
-    Write-Output "Uptime is more than 3 hours"
+if ($uptime.Hours -gt 1) {
+    Write-Output "Uptime is more than 1 hour"
     exit 1
 }
 else{
